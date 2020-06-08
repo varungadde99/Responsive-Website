@@ -79,3 +79,10 @@ body {
 #span_login:hover {
   cursor: pointer;
 }
+
+#carouselButton {
+  right: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 1;
+}
