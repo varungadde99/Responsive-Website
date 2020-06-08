@@ -50,10 +50,6 @@ body {
   background: #ecce21;
 }
 
-#reserve {
-  margin-left: 15px;
-}
-
 .tab-content {
   border-left: 1px solid #ddd;
   border-right: 1px solid #ddd;
@@ -74,4 +70,12 @@ body {
   top: 0;
   left: 0;
   min-height: 300px;
+}
+
+#form_modal {
+  color: #0f0f0f;
+}
+
+#span_login:hover {
+  cursor: pointer;
 }
